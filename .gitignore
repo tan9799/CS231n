@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+assignment1/cs231n/datasets/cifar-10-batches-py/
+assignment1/cs231n/datasets/*.tar.gz
